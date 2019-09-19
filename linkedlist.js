@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+//edit for git practice
 process.stdin.resume();
 process.stdin.setEncoding('ascii');
 
@@ -58,7 +58,6 @@ function main(){
     }
     mylist.display(head);
 }		
-=======
 //edited for git test
 process.stdin.resume();
 process.stdin.setEncoding('ascii');
@@ -119,4 +118,3 @@ function main(){
     }
     mylist.display(head);
 }		
->>>>>>> added comment to linkedlist.js
